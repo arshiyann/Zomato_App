@@ -1,0 +1,13 @@
+103,VIP,Pizza,99$,5
+102,Click,Burger,99$,3
+103,VIP,Khaliya,50$,5
+105,Taj Hotel,Non-Veg Biryani,120$,4
+100,Sahara,Veg-Biryani,60$,2
+101,Zam-Zam,shwarma,50$,4
+104,Bingo,Dosa,20$,3
+102,Click,Biryani,71$,4
+100,Sahara,idli,30$,3
+106,BMW,noodles,15$,4
+105,Taj Hotel,Pulao,80$,5
+107,Czn,Rice,30$,3
+109,Taj,15$,10$,0

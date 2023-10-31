@@ -1,0 +1,1 @@
+print("\n\n\t\n\n\n\t\n\n\t\n\n\n\t\t\t\t\n\n\t\n\n\n\t\t\t\t\t\t\tHey Arshiyan Here!!.....\n\n\t\t\t\t\t\t\t\tCODE ✈  PROGRAM ✈  SPACE\n\t\n\n\t\n\n\t\n\n\n\t")
